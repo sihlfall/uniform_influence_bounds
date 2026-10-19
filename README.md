@@ -9,7 +9,7 @@ an arbitrary random variable $Z$, and a suitable class
 $\mathcal F$ of functions, we show that
 
 $$
-\mathrm E\sum_{i=1}^n \mathrm{ess\,sup}_{f\in\mathcal F}
+\mathrm E\sum_{i=1}^n \mathrm{esssup}_{f\in\mathcal F}
 \bigl(\mathrm E[f(Z)\mid X_i]-\mathrm E f(Z)\bigr)^2
 \le 4\mathcal R_2(\mathcal F)^2,
 $$
