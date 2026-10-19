@@ -1,5 +1,4 @@
-# Uniform Bounds on the Influence of Independent and Pairwise
-  Independent Variables
+# Uniform Bounds on the Influence of Independent and Pairwise Independent Variables
 
 *Johannes Gerd Becker*
 
